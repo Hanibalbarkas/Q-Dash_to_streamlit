@@ -1,0 +1,11 @@
+kaleido==0.2.1
+matplotlib==3.3.4
+numpy<1.20.1
+openpyxl==3.0.7
+pandas==1.2.4
+plotly==5.4.0
+schedule==1.1.0
+seaborn==0.11.1
+streamlit==1.7.0
+workalendar==16.2.0
+
